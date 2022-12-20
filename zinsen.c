@@ -14,7 +14,7 @@ int main(){
   
   //Einlesen der Werte
   printf("\nBitte geben Sie Ihr Startkapital an: ");
-  scanf("%f",&ko);
+  scanf("%f",&k0);
   printf("\nBitte geben Sie die Laufzeitjahre an: ");
   scanf("%f",&n);
   
