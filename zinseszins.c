@@ -21,7 +21,7 @@ int main(){
   
   //Berechnung 
   for(a=1;a<=n;a++) {
-      kn=ktemp+(k0*i*a);
+      kn=ktemp+(ktemp*i*a);
       printf("\nNach %d Jahr(en) beträgt das Kapital %.2f€.\n",a,kn);
       ktemp=kn;
   }
