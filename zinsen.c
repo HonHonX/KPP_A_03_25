@@ -24,7 +24,7 @@ int main(){
       printf("\nNach %d Jahren beträgt das Kapital %.2f.\n",a,kn);
   }
   
-  /Ende
+  //Ende
   printf("\n\n");
 	return 0;
 } 
